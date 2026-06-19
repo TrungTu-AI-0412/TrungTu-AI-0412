@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tung Chu and I'm a fresher AI Engineer, specialised in Computer Vision</h2>
+<h2 align="left">Hi 👋! My name is Tung Chu and I'm a fresher AI Engineer, specialised in Computer Vision and Agentic Systems</h2>
 
 ###
 
